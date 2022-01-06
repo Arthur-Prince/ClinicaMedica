@@ -1,0 +1,4 @@
+user: postgres
+password: ------
+url: jdbc:postgresql://localhost:5432
+nomeBD: clinicamedica
